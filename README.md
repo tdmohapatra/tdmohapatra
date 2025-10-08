@@ -538,19 +538,21 @@
   <img src="https://komarev.com/ghpvc/?username=tdmohapatra&style=for-the-badge&color=00FFFF&label=PROFILE+VISITORS" alt="Profile views" />
 </div>
 
+<div align="center"><!-- Profile Views --><div style="margin: 20px 0;"> <img src="https://komarev.com/ghpvc/?username=tdmohapatra&style=for-the-badge&color=00FFFF&label=PROFILE+VISITORS" alt="Profile views" /> </div><!-- Footer --><div style="color: #888; font-size: 0.9em; margin-top: 30px;"> <p> <strong>✨ Innovation Driven by Passion ✨</strong><br /> Last updated: {{date}} • Built with ❤️ using Markdown & GitHub </p> </div><!-- Star Animation --><div style="margin-top: 40px;"> <img src="https://raw.githubusercontent.com/tdmohapatra/tdmohapatra/main/assets/stars.svg" width="80%" alt="Stars" /> </div></div>
+
 <!-- Custom CSS Animations -->
 <style>
-  @keyframes float {
+  @@keyframes float {
     0%, 100% { transform: translateY(0px); }
     50% { transform: translateY(-10px); }
   }
   
-  @keyframes rotate {
+  @@keyframes rotate {
     0% { transform: rotate(0deg); }
     100% { transform: rotate(360deg); }
   }
   
-  @keyframes gradientShift {
+  @@keyframes gradientShift {
     0% { background-position: 0% 50%; }
     50% { background-position: 100% 50%; }
     100% { background-position: 0% 50%; }
