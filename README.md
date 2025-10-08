@@ -34,7 +34,7 @@
     📍 Bangalore, India
   </div>
   <div style="background: linear-gradient(135deg, #00FF00, #00FFFF); padding: 12px 20px; border-radius: 25px; color: white; font-weight: bold;">
-    🎯 305+ Years Experience
+    🎯 3.5+ Years Experience
   </div>
 </div>
 
