@@ -538,20 +538,4 @@
   <img src="https://komarev.com/ghpvc/?username=tdmohapatra&style=for-the-badge&color=00FFFF&label=PROFILE+VISITORS" alt="Profile views" />
 </div>
 
-<script>
-  // Add interactive elements
-  document.addEventListener('DOMContentLoaded', function() {
-    // Add hover effects to project cards
-    const cards = document.querySelectorAll('.project-card');
-    cards.forEach(card => {
-      card.addEventListener('mouseenter', () => {
-        card.style.transform = 'translateY(-5px)';
-        card.style.boxShadow = '0 10px 30px rgba(0, 255, 255, 0.3)';
-      });
-      card.addEventListener('mouseleave', () => {
-        card.style.transform = 'translateY(0px)';
-        card.style.boxShadow = 'none';
-      });
-    });
-  });
-</script>
+
