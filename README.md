@@ -538,21 +538,6 @@
   <img src="https://komarev.com/ghpvc/?username=tdmohapatra&style=for-the-badge&color=00FFFF&label=PROFILE+VISITORS" alt="Profile views" />
 </div>
 
-<!-- Footer -->
-<div style="color: #888; font-size: 0.9em; margin-top: 30px;">
-  <p>
-    <strong>✨ Innovation Driven by Passion ✨</strong><br />
-    Last updated: {{date}} • Built with ❤️ using Markdown & GitHub
-  </p>
-</div>
-
-<!-- Star Animation -->
-<div style="margin-top: 40px;">
-  <img src="https://raw.githubusercontent.com/tdmohapatra/tdmohapatra/main/assets/stars.svg" width="80%" alt="Stars" />
-</div>
-
-</div>
-
 <!-- Custom CSS Animations -->
 <style>
   @keyframes float {
