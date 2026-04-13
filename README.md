@@ -28,7 +28,7 @@
 <!-- Quick Info Cards -->
 <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; margin: 25px 0;">
   <div style="background: linear-gradient(135deg, #007ACC, #00FFFF); padding: 12px 20px; border-radius: 25px; color: white; font-weight: bold;">
-    💼 .NET Developer @ Jindal
+    💼 .NET BeckEnd Developer @ TradeLab
   </div>
   <div style="background: linear-gradient(135deg, #FF00FF, #FF6B6B); padding: 12px 20px; border-radius: 25px; color: white; font-weight: bold;">
     📍 Bangalore, India
