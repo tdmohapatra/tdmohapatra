@@ -22,13 +22,13 @@
 
 <!-- Animated Typing Text -->
 <div style="background: linear-gradient(135deg, #0D1117 0%, #161B22 100%); padding: 15px; border-radius: 10px; border: 1px solid #00FFFF; margin: 20px 0;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00FFFF&center=true&width=800&vCenter=true&height=40&lines=Senior+.NET+%26+AI+Developer;Computer+Vision+Specialist;Network+Security+Expert;AI+Integration+Architect;Full-Stack+.NET+Developer;Innovation+Enthusiast" alt="typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00FFFF&center=true&width=800&vCenter=true&height=40&lines=.NET+%26+AI+BeckEnd+Developer;Computer+Vision+Specialist;Network+Security+Expert;AI+Integration+Architect;Full-Stack+.NET+Developer;Innovation+Enthusiast" alt="typing animation" />
 </div>
 
 <!-- Quick Info Cards -->
 <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; margin: 25px 0;">
   <div style="background: linear-gradient(135deg, #007ACC, #00FFFF); padding: 12px 20px; border-radius: 25px; color: white; font-weight: bold;">
-    💼 .NET BeckEnd Developer @ TradeLab
+    💼 .NET BeckEnd Developer @ TradeLab Technologies
   </div>
   <div style="background: linear-gradient(135deg, #FF00FF, #FF6B6B); padding: 12px 20px; border-radius: 25px; color: white; font-weight: bold;">
     📍 Bangalore, India
