@@ -1,4 +1,4 @@
-# 🚀 Tarakanta Dasmohapatra - Senior .NET & AI BeckEnd Developer
+# 🚀 Tarakanta Dasmohapatra - Senior .NET & AI Backend Developer
 
 <div align="center">
 
@@ -22,13 +22,13 @@
 
 <!-- Animated Typing Text -->
 <div style="background: linear-gradient(135deg, #0D1117 0%, #161B22 100%); padding: 15px; border-radius: 10px; border: 1px solid #00FFFF; margin: 20px 0;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00FFFF&center=true&width=800&vCenter=true&height=40&lines=.NET+%26+AI+BeckEnd+Developer;Computer+Vision+Specialist;Network+Security+Expert;AI+Integration+Architect;Full-Stack+.NET+Developer;Innovation+Enthusiast" alt="typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00FFFF&center=true&width=800&vCenter=true&height=40&lines=.NET+%26+AI+Backend+Developer;Computer+Vision+Specialist;Network+Security+Expert;AI+Integration+Architect;Full-Stack+.NET+Developer;Innovation+Enthusiast" alt="typing animation" />
 </div>
 
 <!-- Quick Info Cards -->
 <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; margin: 25px 0;">
   <div style="background: linear-gradient(135deg, #007ACC, #00FFFF); padding: 12px 20px; border-radius: 25px; color: white; font-weight: bold;">
-    💼 .NET BeckEnd Developer @ TradeLab Technologies
+    💼 .NET Backend Developer @ TradeLab Technologies
   </div>
   <div style="background: linear-gradient(135deg, #FF00FF, #FF6B6B); padding: 12px 20px; border-radius: 25px; color: white; font-weight: bold;">
     📍 Bangalore, India
@@ -43,7 +43,7 @@
   <a href="https://www.linkedin.com/in/tarakanta-dasmohapatra-081997/" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000&style=flat-square&logoSize=20" alt="LinkedIn" />
   </a>
-  <a href="mailto:tarakanta.d@example.com" style="text-decoration: none;">
+  <a href="mailto:tmohapatra111@gmail.com" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000&style=flat-square&logoSize=20" alt="Email" />
   </a>
   <a href="https://github.com/tdmohapatra" style="text-decoration: none;">
@@ -242,7 +242,7 @@
 <div style="background: linear-gradient(135deg, #0D1117 0%, #161B22 100%); border: 1px solid #FF00FF; border-radius: 15px; padding: 25px; transition: transform 0.3s ease, box-shadow 0.3s ease;">
   <div style="text-align: center; margin-bottom: 20px;">
     <h3 style="color: #FF00FF; margin: 0;">🎥 STAR MULTIMEDIA</h3>
-    <p style="color: #888; margin: 5px 0;">AI-Powered Computer Vision</p>
+    <p style="color: #888; margin: 5px 0;">Real-Time Multimedia Detection Platform</p>
   </div>
   
   <a href="https://github.com/tdmohapatra/MULTIMEDIA_DETECTION_CODE_GIT">
@@ -251,19 +251,19 @@
   
   <div style="margin-top: 15px;">
     <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 15px;">
-      <span style="background: rgba(255, 0, 255, 0.2); color: #FF00FF; padding: 4px 12px; border-radius: 15px; font-size: 0.8em;">.NET Core</span>
-      <span style="background: rgba(255, 0, 255, 0.2); color: #FF00FF; padding: 4px 12px; border-radius: 15px; font-size: 0.8em;">OpenCV</span>
-      <span style="background: rgba(255, 0, 255, 0.2); color: #FF00FF; padding: 4px 12px; border-radius: 15px; font-size: 0.8em;">AI/ML</span>
+      <span style="background: rgba(255, 0, 255, 0.2); color: #FF00FF; padding: 4px 12px; border-radius: 15px; font-size: 0.8em;">.NET 8/9</span>
+      <span style="background: rgba(255, 0, 255, 0.2); color: #FF00FF; padding: 4px 12px; border-radius: 15px; font-size: 0.8em;">YOLOv8 / ONNX Runtime</span>
+      <span style="background: rgba(255, 0, 255, 0.2); color: #FF00FF; padding: 4px 12px; border-radius: 15px; font-size: 0.8em;">OpenCvSharp</span>
     </div>
     <ul style="color: #FFFFFF; list-style-type: none; padding: 0; text-align: left;">
       <li style="margin: 8px 0; padding-left: 20px; position: relative;">
-        <span style="color: #FF00FF; position: absolute; left: 0;">►</span> Face, eye, hand detection
+        <span style="color: #FF00FF; position: absolute; left: 0;">►</span> YOLOv8 object/person detection + YuNet face landmarks
       </li>
       <li style="margin: 8px 0; padding-left: 20px; position: relative;">
-        <span style="color: #FF00FF; position: absolute; left: 0;">►</span> Gesture recognition & OCR
+        <span style="color: #FF00FF; position: absolute; left: 0;">►</span> Real FER+ emotion classification, browser-side MediaPipe hand tracking
       </li>
       <li style="margin: 8px 0; padding-left: 20px; position: relative;">
-        <span style="color: #FF00FF; position: absolute; left: 0;">►</span> Real-time analytics
+        <span style="color: #FF00FF; position: absolute; left: 0;">►</span> GPU-accelerated (OpenCL) real-time tracking dashboard + OCR
       </li>
     </ul>
   </div>
@@ -495,7 +495,7 @@
       💼 LinkedIn
     </div>
   </a>
-  <a href="mailto:tmohapatra111@gmailcom" style="text-decoration: none;">
+  <a href="mailto:tmohapatra111@gmail.com" style="text-decoration: none;">
     <div style="background: linear-gradient(135deg, #D14836, #EA4335); color: white; padding: 15px 25px; border-radius: 25px; font-weight: bold; display: flex; align-items: center; gap: 10px; transition: transform 0.3s ease;">
       📧 Email Me
     </div>
